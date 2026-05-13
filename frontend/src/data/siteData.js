@@ -120,7 +120,7 @@ export const siteData = {
       longDescription: "A wash and treatment is a hair care service focused on cleansing, restoring, and nourishing the hair and scalp. It starts with a thorough shampoo to remove buildup, followed by a deep conditioning treatment tailored to your hair's unique needs.",
       price: "Price varies",
       duration: "30 min",
-      image: "https://images.unsplash.com/photo-1535585209827-a15fcdbc4c2d?w=600&q=80",
+      image: "/wash-and-treatment.jpg",
       includes: ["Scalp assessment", "Gentle cleansing", "Deep conditioning", "Detangling", "Moisturizing"],
     },
     {
