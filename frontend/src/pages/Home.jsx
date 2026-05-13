@@ -92,7 +92,7 @@ function ExperienceSection() {
         <div ref={ref} className="reveal text-center mb-16">
           <p className="font-body text-khs-gold/80 text-sm tracking-[0.3em] uppercase mb-4">The KHS Experience</p>
           <h2 className="font-display text-4xl md:text-5xl text-khs-cream">
-            Elegant. Earthy. <em className="text-khs-gold">Yours.</em>
+            Elegant. Elevated. <em className="text-khs-gold">Yours.</em>
           </h2>
         </div>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
