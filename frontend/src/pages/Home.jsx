@@ -82,7 +82,7 @@ function ExperienceCard({ icon: Icon, title, desc, delay }) {
 function ExperienceSection() {
   const ref = useReveal();
   const items = [
-    { icon: Shield, title: 'Private Atmosphere', desc: 'A calm, intentional space where you can relax, breathe, and be fully yourself.' },
+    { icon: Shield, title: 'Relaxing Atmosphere', desc: 'A calm, intentional space where you can relax, breathe, and be fully yourself.' },
     { icon: Leaf, title: 'Texture Specialists', desc: 'Deep expertise in natural, textured, and protective styles rooted in African tradition.' },
     { icon: Users, title: 'Community Focused', desc: 'A gathering space built on connection, education, and cultural celebration.' },
   ];
