@@ -70,7 +70,7 @@ export const siteData = {
       longDescription: "Our haircut services are tailored to textured hair. Whether you need a shape-up, a trim, or a completely new look, our skilled stylists deliver precision cuts that complement your natural texture and face shape.",
       price: "Price varies",
       duration: "30 min",
-      image: "https://images.unsplash.com/photo-1588527962980-72746d95973e?w=600&q=80",
+      image: "/haircut.jpg",
       includes: ["Consultation", "Precision cut", "Wash & style", "Finishing touches"],
     },
     {
