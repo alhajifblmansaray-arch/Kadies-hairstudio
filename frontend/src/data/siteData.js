@@ -8,7 +8,7 @@ export const siteData = {
     address: "178 PTH 12 North, Steinbach, MB R5G 1T7, Canada",
     instagram: "@khs.hairstudio",
     instagramUrl: "https://instagram.com/khs.hairstudio",
-    bookingUrl: "https://app.squareup.com/appointments/book/8fbb00znetx358/LN5H9T8R4SMYS/start",
+    bookingUrl: "https://book.squareup.com/appointments/8fbb00znetx358/location/LN5H9T8R4SMYS/services",
     servicesUrl: "https://book.squareup.com/appointments/8fbb00znetx358/location/LN5H9T8R4SMYS/services",
   },
   navLinks: [
