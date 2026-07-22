@@ -56,7 +56,6 @@ function StorySection() {
           <a href={siteData.brand.bookingUrl} target="_blank" rel="noopener noreferrer"
             className="inline-flex items-center gap-2 bg-khs-green text-khs-cream font-body font-semibold tracking-wide uppercase text-sm px-8 py-4 hover:bg-khs-green-light transition-colors duration-300 rounded-sm group">
             Book Your Visit
-            <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform duration-300" />
           </a>
         </div>
       </div>
@@ -114,7 +113,6 @@ function VisitCTA() {
             <a href={siteData.brand.bookingUrl} target="_blank" rel="noopener noreferrer"
               className="inline-flex items-center justify-center gap-2 bg-khs-green text-khs-cream font-body font-semibold tracking-wide uppercase text-sm px-8 py-4 hover:bg-khs-green-light transition-colors duration-300 rounded-sm group">
               Book Appointment
-              <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform duration-300" />
             </a>
             <Link to="/contact"
               className="inline-flex items-center justify-center gap-2 border border-khs-green text-khs-green font-body font-semibold tracking-wide uppercase text-sm px-8 py-4 hover:bg-khs-green hover:text-khs-cream transition-all duration-300 rounded-sm">

@@ -72,7 +72,6 @@ function ServiceCard({ service }) {
           <a href={siteData.brand.servicesUrl} target="_blank" rel="noopener noreferrer"
             className="inline-flex items-center gap-2 bg-khs-black text-khs-cream font-body font-semibold tracking-wide uppercase text-xs px-6 py-3 hover:bg-khs-green transition-colors duration-300 rounded-sm group">
             Book Now
-            <ArrowRight className="w-3.5 h-3.5 group-hover:translate-x-1 transition-transform duration-300" />
           </a>
         </div>
       </div>
@@ -90,7 +89,6 @@ function BookingCTA() {
         <a href={siteData.brand.bookingUrl} target="_blank" rel="noopener noreferrer"
           className="inline-flex items-center gap-2 bg-khs-gold text-khs-black font-body font-semibold tracking-wide uppercase text-sm px-10 py-4 hover:bg-khs-gold-light transition-colors duration-300 rounded-sm group">
           Book Your Appointment
-          <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform duration-300" />
         </a>
       </div>
     </section>

@@ -47,7 +47,6 @@ function HeroSection() {
             <a href={siteData.brand.bookingUrl} target="_blank" rel="noopener noreferrer"
               className="inline-flex items-center justify-center gap-2 bg-khs-gold text-khs-black font-body font-semibold tracking-wide uppercase text-sm px-8 py-4 hover:bg-khs-gold-light transition-all duration-300 rounded-sm group">
               Book Your Appointment
-              <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform duration-300" />
             </a>
             <Link to="/services"
               className="inline-flex items-center justify-center gap-2 border border-khs-cream/30 text-khs-cream font-body font-semibold tracking-wide uppercase text-sm px-8 py-4 hover:border-khs-gold hover:text-khs-gold transition-all duration-300 rounded-sm">
@@ -131,7 +130,6 @@ function FounderSection() {
           <Link to="/about"
             className="inline-flex items-center gap-2 bg-khs-green text-khs-cream font-body font-semibold tracking-wide uppercase text-sm px-8 py-4 hover:bg-khs-green-light transition-colors duration-300 rounded-sm group">
             Read Our Full Story
-            <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform duration-300" />
           </Link>
         </div>
       </div>
@@ -177,7 +175,6 @@ function ServicesSection() {
           <Link to="/services"
             className="inline-flex items-center gap-2 border border-khs-gold text-khs-gold font-body font-semibold tracking-wide uppercase text-sm px-8 py-4 hover:bg-khs-gold hover:text-khs-black transition-all duration-300 rounded-sm group">
             View Full Menu & Pricing
-            <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform duration-300" />
           </Link>
         </div>
       </div>
@@ -252,7 +249,6 @@ function BookingCTA() {
         <a href={siteData.brand.bookingUrl} target="_blank" rel="noopener noreferrer"
           className="inline-flex items-center gap-2 bg-khs-gold text-khs-black font-body font-semibold tracking-wide uppercase text-sm px-10 py-4 hover:bg-khs-gold-light transition-colors duration-300 rounded-sm group">
           Book on Square
-          <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform duration-300" />
         </a>
       </div>
     </section>

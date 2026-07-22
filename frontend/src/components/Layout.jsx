@@ -200,7 +200,7 @@ function Footer() {
                   rel="noopener noreferrer"
                   className="font-body text-khs-gold/70 hover:text-khs-gold transition-colors text-sm"
                 >
-                  Book Now →
+                  Book Now
                 </a>
               </li>
             </ul>

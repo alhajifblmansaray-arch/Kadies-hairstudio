@@ -105,7 +105,6 @@ function JoinCTA() {
           <Link to="/contact"
             className="inline-flex items-center justify-center gap-2 border border-khs-cream/40 text-khs-cream font-body font-semibold tracking-wide uppercase text-sm px-8 py-4 hover:border-khs-cream hover:bg-khs-cream/10 transition-all duration-300 rounded-sm group">
             Get in Touch
-            <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform duration-300" />
           </Link>
         </div>
       </div>

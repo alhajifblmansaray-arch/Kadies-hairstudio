@@ -139,9 +139,6 @@ function ContactForm() {
         className="inline-flex items-center gap-2 bg-khs-green text-khs-cream font-body font-semibold tracking-wide uppercase text-sm px-8 py-4 hover:bg-khs-green-light transition-colors duration-300 rounded-sm group disabled:opacity-60 disabled:cursor-not-allowed"
       >
         {status === 'loading' ? 'Sending...' : 'Send Message'}
-        {status !== 'loading' && (
-          <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform duration-300" />
-        )}
       </button>
     </form>
   );
@@ -234,7 +231,6 @@ function MainSection() {
               className="inline-flex items-center gap-2 bg-khs-gold text-khs-black font-body font-semibold tracking-wide uppercase text-sm px-6 py-3.5 hover:bg-khs-gold-light transition-colors duration-300 rounded-sm group"
             >
               Book on Square
-              <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform duration-300" />
             </a>
           </div>
         </div>
