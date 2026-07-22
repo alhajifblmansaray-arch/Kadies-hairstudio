@@ -38,8 +38,8 @@ export const siteData = {
       { title: "Education First", description: "We believe knowledge is power. We teach our clients how to care for their hair at home, building confidence that lasts beyond the chair." },
       { title: "Community Over Competition", description: "KHS exists to lift up our community. From mentoring aspiring stylists to hosting cultural gatherings, we grow together." },
     ],
-    image: "https://customer-assets.emergentagent.com/job_textured-threads/artifacts/cxugum1n_IMG_5699.jpg",
-    founderImage: "https://customer-assets.emergentagent.com/job_textured-threads/artifacts/qavurjjx_IMG_5848.jpg",
+    image: "/kadie-about.jpg",
+    founderImage: "/kadie-founder.jpg",
     secondImage: "https://images.unsplash.com/photo-1632765854612-9b02b6ec2b15?w=800&q=80",
   },
   services: [
